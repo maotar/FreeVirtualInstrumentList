@@ -22,26 +22,41 @@ Comprehensive list of free virtual instruments provided from all over the intern
 ## Percussion
 
 - [Strezov - THUNDER X3M Taiko Freebie - Kontakt](https://www.strezov-sampling.com/products/view/THUNDER%20X3M%20Taiko%20Freebie.html) - The Low Taiko Articulations (incl. Rimshots) from Thunder X3M mapped in the X3M Percussion Engine.
-- [8Dio - The New Cajon and Bongo -Kontakt](https://8dio.com/instrument/the-new-cajon-and-bongo/) - The New Cajon and Bongo comes with 11 core articulations and 8 new presets. Everything is neatly organized into our custom browser, which holds all of the available articulations within a single instrument. 
+- [8Dio - The New Cajon and Bongo - Kontakt](https://8dio.com/instrument/the-new-cajon-and-bongo/) - The New Cajon and Bongo comes with 11 core articulations and 8 new presets. Everything is neatly organized into our custom browser, which holds all of the available articulations within a single instrument. 
+- [8Dio - Mini - Kontakt](https://8dio.com/instrument/mini/) - MINI is the most comprehensive sample library ever done of ultra tiny object sounds
+- [8Dio - The New Propanium - Kontakt](https://8dio.com/instrument/the-new-propanium/) - The New Propanium (aka Milltone) is a multi-sampled tonal metallic drum
+- [8Dio - Smiley Drum - Kontakt](https://8dio.com/instrument/smiley-drum/) - Tuned percussion played with mallets
 
-## Strings
+## Symphonic Strings
 
 - [Sonuscore - Free HD Orchestra Chords & Sustained String Chords - Kontakt](https://sonuscore.com/free-orchestra-chords/) - (**requires mailing list subscribe**) Together with the Tonmeisters from GENUIN, multiple winners of the German Music Prize – The KLASSIK ECHO – we recorded the renowned Brandenburg State Orchestra to give you that warm and massive orchestral sound. Just register and you can get started immediately – all for free! 
+
+## Other Stringed Instruments
+
+- [8Dio - Post-Apocalyptic Guitar - Kontakt](https://8dio.com/instrument/post-apocalyptic-guitar/) - Emotional Post-Rock Guitar
 
 ## Keys and Plucks
 
 - [Soniccouture - Music Box - Kontakt Player](https://www.soniccouture.com/en/products/p43-music-boxes/) - Two original music boxes: all such devices work on the same principle of triggering metal tines using a notated melody, either as punched paper or an embossed metal cylinder. 
 - [8Dio - The New Copperphone - Kontakt](https://8dio.com/instrument/the-new-copperphone/) - The New Copperphone is a custom instrument made from modified Copper pipes. The end-result is a 12 pipe instrument that sounds somewhere between pristine bells and a metallic marimba of sorts.
+- [8Dio - The New Glass Marimba - Kontakt](https://8dio.com/instrument/the-new-glass-marimba/) - Deep Sampled Glass Marimba
 
 ## Choir
 
 - [Soniccouture - Tape Choir - Kontakt Player](https://www.soniccouture.com/en/products/18-exclusive-free-content/p170-tape-choir/) - A project to recreate the famous vocal choir pad sound from 10cc's 'I'm Not In Love'. 
 
 
+
+## Sounddesign
+
+- [8Dio - Free You - Kontakt](https://8dio.com/instrument/free-you-cloud-collaborationfor-kontakt-vst-au-aax-samples/) - Contains Textural Sounds by over 200 Sound Designers
+
+
 ## Misc
 
 - [8Dio - Free Angels - Kontakt](https://8dio.com/instrument/free-angels/) - Free Angels contains over 1.4GB of heavenly sound designs consisting of angelic ambiences, celestial risers, a large set of ethereal plucked instruments, fluffy creatures, heavenly hits, seraphic voices and a bunch of soft and saintly percussion.
 - [8Dio - Free ASMR - Kontakt](https://8dio.com/instrument/free-asmr-for-kontakt-vst-au-aax/) - Unique ASMR samples that will tickle your ears
+- [8Dio - Free Radicals - Kontakt](https://8dio.com/instrument/free-radicals/) - Hybrid Distorted Sound Design
 - 
 
 

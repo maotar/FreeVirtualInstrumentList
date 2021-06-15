@@ -13,12 +13,14 @@ Comprehensive list of free virtual instruments provided from all over the intern
 
 ## Woodwinds
 
-- [Strezov - JADE Ethnic Orchestra Xiao Freebie - Kontakt](https://www.strezov-sampling.com/products/view/jade-freebie.html)
+- [Strezov - JADE Ethnic Orchestra Xiao Freebie - Kontakt](https://www.strezov-sampling.com/products/view/jade-freebie.html) - This freebie allows you to try out a limited version of the Xiao instrument from our library JADE Ethnic Orchestra.
 - [Strezov - BALKAN Ethnic Orchestra Duduk Freebie - Kontakt ](https://www.strezov-sampling.com/products/view/BALKAN%20Ethnic%20Orchestra%20Duduk%20Freebie.html) - One of the most used ethnic instruments in modern soundtrack history: The Armenian Duduk. Sampled with special attention to the natural expression of the soloist.
 
 ## Brass
 
 ## Percussion
+
+- [Strezov - THUNDER X3M Taiko Freebie - Kontakt](https://www.strezov-sampling.com/products/view/THUNDER%20X3M%20Taiko%20Freebie.html) - The Low Taiko Articulations (incl. Rimshots) from Thunder X3M mapped in the X3M Percussion Engine.
 
 ## Strings
 

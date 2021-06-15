@@ -34,6 +34,7 @@ Comprehensive list of free virtual instruments provided from all over the intern
 ## Other Stringed Instruments
 
 - [8Dio - Post-Apocalyptic Guitar - Kontakt](https://8dio.com/instrument/post-apocalyptic-guitar/) - Emotional Post-Rock Guitar
+- [8Dio - Songwriting Guitar - Kontakt](https://8dio.com/instrument/songwriting-guitar/) - Acoustic and Electric Guitar Strums and Licks
 
 ## Keys and Plucks
 

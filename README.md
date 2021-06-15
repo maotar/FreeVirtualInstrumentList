@@ -13,6 +13,9 @@ Comprehensive list of free virtual instruments provided from all over the intern
 
 ## Woodwinds
 
+- [Strezov - JADE Ethnic Orchestra Xiao Freebie - Kontakt](https://www.strezov-sampling.com/products/view/jade-freebie.html)
+- [Strezov - BALKAN Ethnic Orchestra Duduk Freebie - Kontakt ](https://www.strezov-sampling.com/products/view/BALKAN%20Ethnic%20Orchestra%20Duduk%20Freebie.html) - One of the most used ethnic instruments in modern soundtrack history: The Armenian Duduk. Sampled with special attention to the natural expression of the soloist.
+
 ## Brass
 
 ## Percussion

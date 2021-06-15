@@ -11,6 +11,22 @@ Comprehensive list of free virtual instruments provided from all over the intern
 - [Spitfire - BBCSO Discover - VST](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) - Start writing music with the world-famous BBC Symphony Orchestra. 33 instruments brought to life inside our free, easy-to-use plugin, compatible with any major music creation software (**free version requires filling out a survey and 14 day wait period**)
 
 
+## Woodwinds
+
+## Brass
+
+## Percussion
+
+## Strings
+
+## Keys and Plucks
+
+- [Soniccouture - Music Box - Kontakt Player](https://www.soniccouture.com/en/products/p43-music-boxes/) - Two original music boxes: all such devices work on the same principle of triggering metal tines using a notated melody, either as punched paper or an embossed metal cylinder. 
+
+## Choir
+
+- [Soniccouture - Tape Choir - Kontakt Player](https://www.soniccouture.com/en/products/18-exclusive-free-content/p170-tape-choir/) - A project to recreate the famous vocal choir pad sound from 10cc's 'I'm Not In Love'. 
+
 
 
 

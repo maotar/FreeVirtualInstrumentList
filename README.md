@@ -73,13 +73,14 @@ Comprehensive list of free virtual instruments provided from all over the intern
 
 ## Misc
 
+- [Native Instruments - Komplete Start - VST/Kontakt Player](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) - Step into music production with KOMPLETE START – a curated selection of studio-quality instruments, effects, utilities, loops, and samples for the low price of nothing at all
 - [8Dio - Free Angels - Kontakt](https://8dio.com/instrument/free-angels/) - Free Angels contains over 1.4GB of heavenly sound designs consisting of angelic ambiences, celestial risers, a large set of ethereal plucked instruments, fluffy creatures, heavenly hits, seraphic voices and a bunch of soft and saintly percussion.
 - [8Dio - Free ASMR - Kontakt](https://8dio.com/instrument/free-asmr-for-kontakt-vst-au-aax/) - Unique ASMR samples that will tickle your ears
-- [Embertone - Atmoraffe - Kontakt](https://www.embertone.com/instruments/atmoraffe.php) - a super stretched squeezy toy which will keep you giggling for quite some time
 - [Embertone - Arcane - Kontakt Player](https://www.embertone.com/instruments/arcane.php) - Half library, half game, 5 Incredible worlds to explore
 
 ## Weird/Funny
 
+- [Embertone - Atmoraffe - Kontakt](https://www.embertone.com/instruments/atmoraffe.php) - a super stretched squeezy toy which will keep you giggling for quite some time
 - [Embertone - The Keyboard - Kontakt](https://www.embertone.com/instruments/thekeyboard.php) - It's just an intricately sampled, unplugged MIDI Controller
 - [Embertone - The Kitchen - Kontakt](https://www.embertone.com/instruments/kitchen.php) - Enjoy the sounds of Oven slams, Glass bowls, kitchen lamps, matchsticks and more
 - [Soundiron - Snack the cat - Kontakt](https://soundiron.com/collections/free/products/snack) - we finally flipped on our trusty field recorder to capture a few raw cat vocalizations just for fun. We then started exploring the audio with a few digital manipulation tricks to see where that would take us

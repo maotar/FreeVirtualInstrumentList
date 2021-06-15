@@ -15,6 +15,7 @@ Comprehensive list of free virtual instruments provided from all over the intern
 
 - [Strezov - JADE Ethnic Orchestra Xiao Freebie - Kontakt](https://www.strezov-sampling.com/products/view/jade-freebie.html) - This freebie allows you to try out a limited version of the Xiao instrument from our library JADE Ethnic Orchestra.
 - [Strezov - BALKAN Ethnic Orchestra Duduk Freebie - Kontakt ](https://www.strezov-sampling.com/products/view/BALKAN%20Ethnic%20Orchestra%20Duduk%20Freebie.html) - One of the most used ethnic instruments in modern soundtrack history: The Armenian Duduk. Sampled with special attention to the natural expression of the soloist.
+- [Sonuscore - Ethnic Flute Phrases - Kontakt](https://sonuscore.com/shop/free-ethnic-flute-phrases/) - The FREE “Ethnic Flute Phrases” instrument is a handy scoring tool, made to breathe life into every composition. It includes 100+ live recorded ethnic flute phrases, providing an expressiveness which is unachievable in traditional sampling.
 
 ## Brass
 

@@ -4,8 +4,7 @@ Comprehensive list of free virtual instruments provided from all over the intern
 
 ---
 
-## Full orchestra instruments
-
+## Full Orchestra
 
 - [Project SAM - The Free Orchestra - Kontakt Player](https://projectsam.com/libraries/the-free-orchestra/) - The Free Orchestra offers a solid gigabyte of free, cinematic sounds taken directly from ProjectSAM’s acclaimed libraries, ranging from orchestral string staccatos and brass clusters to symphonic percussion and dystopian sound design.
 - [Spitfire - BBCSO Discover - VST](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) - (**free version requires filling out a survey and 14 day wait period**) Start writing music with the world-famous BBC Symphony Orchestra. 33 instruments brought to life inside our free, easy-to-use plugin, compatible with any major music creation software 
@@ -30,24 +29,30 @@ Comprehensive list of free virtual instruments provided from all over the intern
 - [8Dio - The New Propanium - Kontakt](https://8dio.com/instrument/the-new-propanium/) - The New Propanium (aka Milltone) is a multi-sampled tonal metallic drum
 - [8Dio - Smiley Drum - Kontakt](https://8dio.com/instrument/smiley-drum/) - Tuned percussion played with mallets
 - [Embertone - Jug Drums Free](https://www.embertone.com/instruments/jugfree.php) - What happens when you lock two sound designers in a space with 5 water jugs, 5 microphones, a laptop and an audio interface? Pure #$!@ing magic, that's what!
+- [KLANG - Bambu Bambu - Kontakt](https://klang.cologne/klang21_free.php) - Lately we´ve been experimenting a lot with really old samba vinyl samples and found some extremely danceable rhythms. Have Fun jamming to these lofi gems
+- 
 
 ## Symphonic Strings
 
 - [Sonuscore - Free HD Orchestra Chords & Sustained String Chords - Kontakt](https://sonuscore.com/free-orchestra-chords/) - (**requires mailing list subscribe**) Together with the Tonmeisters from GENUIN, multiple winners of the German Music Prize – The KLASSIK ECHO – we recorded the renowned Brandenburg State Orchestra to give you that warm and massive orchestral sound. Just register and you can get started immediately – all for free! 
 - [Embertone - Intimate Strings Lite - Kontakt](https://www.embertone.com/instruments/intstrings-lite.php) - Sound of a string quartet playing in unison
-- 
+- [KLANG - Bodega Strings - Ableton](https://klang.cologne/klang21_free.php) - A nice set of very fragile violin notes combined with a processed halftime layer results into a noble string tool that is deep and scratchy
+- [KLANG - Vertigo Harmonics - Ableton](https://klang.cologne/klang21_free.php) - Quite in the style of our symphonic taste. Flageolet strings, carefully played with a separate bow noise and an interesting wobble or chopper effect
 
 ## Other Stringed Instruments
 
 - [8Dio - Post-Apocalyptic Guitar - Kontakt](https://8dio.com/instrument/post-apocalyptic-guitar/) - Emotional Post-Rock Guitar
 - [8Dio - Songwriting Guitar - Kontakt](https://8dio.com/instrument/songwriting-guitar/) - Acoustic and Electric Guitar Strums and Licks
 - [Embertone - Canjo - Kontakt](https://www.embertone.com/instruments/canjo.php) - A Canjo is a single string musical instrument. It is held like a guitar but may also be played on a table or lap
+- [KLANG - Plucked overdrive - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - We had a little bit too much fun sending guitar through our favourite pedals and plug-ins
 
 ## Keys and Plucks
 
 - [Soniccouture - Music Box - Kontakt Player](https://www.soniccouture.com/en/products/p43-music-boxes/) - Two original music boxes: all such devices work on the same principle of triggering metal tines using a notated melody, either as punched paper or an embossed metal cylinder. 
 - [8Dio - The New Copperphone - Kontakt](https://8dio.com/instrument/the-new-copperphone/) - The New Copperphone is a custom instrument made from modified Copper pipes. The end-result is a 12 pipe instrument that sounds somewhere between pristine bells and a metallic marimba of sorts.
 - [8Dio - The New Glass Marimba - Kontakt](https://8dio.com/instrument/the-new-glass-marimba/) - Deep Sampled Glass Marimba
+- [KLANG - Spiel Uher - Kontakt](https://klang.cologne/klang21_free.php) - We recorded a Spieluhr. We send it thru an old Uher Tape Machine. We like bad puns. We created a Spieluher
+- [KLANG - Lost in thoughts - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - As soon as you play the first notes your thoughts drift off into another world. It's mainly a JUNO 60 saw pad with a wonderful reverse texture and a grain pad
 
 ## Choir
 
@@ -56,12 +61,15 @@ Comprehensive list of free virtual instruments provided from all over the intern
 
 ## Field Recordings
 
-- [Soundiron - Teiny Day Ambiences](https://soundiron.com/collections/free/products/rainy-day-ambiences) - You'll find sounds of rain hitting car hoods, downspouts, traffic, thunder storms, and much more.
+- [Soundiron - Teiny Day Ambiences](https://soundiron.com/collections/free/products/rainy-day-ambiences) - You'll find sounds of rain hitting car hoods, downspouts, traffic, thunder storms, and much more
+- [KLANG - Stack of wood - Ableton](https://klang.cologne/klang21_free.php) - Does wood makes sound? Just move a handful of cut wood and branches against each other, you notice that each of these pieces of wood has its own different sound
+- [KLANG - Berlin signal tome - Kontakt](https://klang.cologne/klang21_free.php) - How to make music with sounds captured from the Berlin subway and buses? Use this KLANG and add character and atmosphere to your track. Turn it into a synthesizer-like sound or use the rhythmic ambient sounds
 
 ## Sounddesign
 
 - [8Dio - Free You - Kontakt](https://8dio.com/instrument/free-you-cloud-collaborationfor-kontakt-vst-au-aax-samples/) - Contains Textural Sounds by over 200 Sound Designers
 - [8Dio - Free Radicals - Kontakt](https://8dio.com/instrument/free-radicals/) - Hybrid Distorted Sound Design
+- [KLANG - Drown - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - Drowning in the endless possibilities of manipulating sounds, we finally found something that actually feels like drowning but is somehow still transporting a shiny beauty
 
 ## Misc
 

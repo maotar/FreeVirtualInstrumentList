@@ -54,7 +54,9 @@ Comprehensive list of free virtual instruments provided from all over the intern
 - [Soniccouture - Tape Choir - Kontakt Player](https://www.soniccouture.com/en/products/18-exclusive-free-content/p170-tape-choir/) - A project to recreate the famous vocal choir pad sound from 10cc's 'I'm Not In Love'
 - [Embertone - Ancient Voices - Kontakt](https://www.embertone.com/instruments/ancientvoices.php) - Ancient Voices is a simple and beautiful, true-legato, all-male virtual choir
 
+## Field Recordings
 
+- [Soundiron - Teiny Day Ambiences](https://soundiron.com/collections/free/products/rainy-day-ambiences) - You'll find sounds of rain hitting car hoods, downspouts, traffic, thunder storms, and much more.
 
 ## Sounddesign
 

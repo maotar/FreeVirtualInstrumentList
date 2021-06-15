@@ -25,6 +25,8 @@ Comprehensive list of free virtual instruments provided from all over the intern
 
 ## Strings
 
+- [Sonuscore - Free HD Orchestra Chords & Sustained String Chords](https://sonuscore.com/free-orchestra-chords/) - Together with the Tonmeisters from GENUIN, multiple winners of the German Music Prize – The KLASSIK ECHO – we recorded the renowned Brandenburg State Orchestra to give you that warm and massive orchestral sound. Just register and you can get started immediately – all for free! (**requires mailing list subscribe**)
+
 ## Keys and Plucks
 
 - [Soniccouture - Music Box - Kontakt Player](https://www.soniccouture.com/en/products/p43-music-boxes/) - Two original music boxes: all such devices work on the same principle of triggering metal tines using a notated melody, either as punched paper or an embossed metal cylinder. 

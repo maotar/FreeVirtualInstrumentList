@@ -81,6 +81,8 @@ Comprehensive list of free virtual instruments provided from all over the intern
 - [8Dio - Free Angels - Kontakt](https://8dio.com/instrument/free-angels/) - Free Angels contains over 1.4GB of heavenly sound designs consisting of angelic ambiences, celestial risers, a large set of ethereal plucked instruments, fluffy creatures, heavenly hits, seraphic voices and a bunch of soft and saintly percussion.
 - [8Dio - Free ASMR - Kontakt](https://8dio.com/instrument/free-asmr-for-kontakt-vst-au-aax/) - Unique ASMR samples that will tickle your ears
 - [Embertone - Arcane - Kontakt Player](https://www.embertone.com/instruments/arcane.php) - Half library, half game, 5 Incredible worlds to explore
+- [Keepforest - Evolution: Devastator Warzone Free Edition - Kontakt Player](https://keep-forest.com/store/libraries/225381) - Collection of hand-crafted custom Signature Sound effects, Bass and Braams, Signals and Signs, Drum Loops, Pulses, Guns and Racharges, One Shots, Cinematic loops and Artist Stems.
+- [The Amazonic - AMA I Free edition - Kontakt](https://www.theamazonic.com/freeaudio) - Recorded straight in the depths of the Amazon rainforest and on a studio located in the city of Manaus, upon months of a deep researching, we selected the main instruments that are part of the culture, religion and traditions of those who lives in the Amazon.
 
 ## Weird/Funny
 

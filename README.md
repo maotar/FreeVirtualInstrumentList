@@ -38,6 +38,7 @@ List of free virtual instruments provided from all over the internet, most of th
 - [8Dio - The New Copperphone - Kontakt](https://8dio.com/instrument/the-new-copperphone/) - The New Copperphone is a custom instrument made from modified Copper pipes. The end-result is a 12 pipe instrument that sounds somewhere between pristine bells and a metallic marimba of sorts.
 - [8Dio - The New Glass Marimba - Kontakt](https://8dio.com/instrument/the-new-glass-marimba/) - Deep Sampled Glass Marimba
 - [KLANG - Spiel Uher - Kontakt](https://klang.cologne/klang21_free.php) - We recorded a Spieluhr. We send it thru an old Uher Tape Machine. We like bad puns. We created a Spieluher
+- [Sonixinema - Medicine MAn - Kontakt](https://www.sonixinema.com/products/medicine-man) - Medicine Man is a unique hand crafted Tongue Drum recorded by our friend Saša Dukić, best known as PsiloCybian
 
 ## Symphonic Strings
 
@@ -45,6 +46,7 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Embertone - Intimate Strings Lite - Kontakt](https://www.embertone.com/instruments/intstrings-lite.php) - Sound of a string quartet playing in unison
 - [KLANG - Bodega Strings - Ableton](https://klang.cologne/klang21_free.php) - A nice set of very fragile violin notes combined with a processed halftime layer results into a noble string tool that is deep and scratchy
 - [KLANG - Vertigo Harmonics - Ableton](https://klang.cologne/klang21_free.php) - Quite in the style of our symphonic taste. Flageolet strings, carefully played with a separate bow noise and an interesting wobble or chopper effect
+- [Sonixinema - String Textures - Kontakt](https://www.sonixinema.com/products/string-textures) - String Textures is a free virtual instrument for Kontakt featuring intimately recorded Strings which have been twisted, mangled and warped in to a wide array in cinematic sounds. 
 
 ## Other Stringed Instruments
 
@@ -55,6 +57,7 @@ List of free virtual instruments provided from all over the internet, most of th
 
 ## Keys and Synths
 
+- [Sonixinema - Piano Textrures - Kontakt](https://www.sonixinema.com/products/piano-textures) - Piano Textures is a free virtual instrument for Kontakt featuring an intimately recorded Upright Piano which has been twisted, mangled and warped in to a wide array in cinematic sounds. 
 - [Soniccouture - Music Box - Kontakt Player](https://www.soniccouture.com/en/products/p43-music-boxes/) - Two original music boxes: all such devices work on the same principle of triggering metal tines using a notated melody, either as punched paper or an embossed metal cylinder. 
 - [KLANG - Lost in thoughts - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - As soon as you play the first notes your thoughts drift off into another world. It's mainly a JUNO 60 saw pad with a wonderful reverse texture and a grain pad
 

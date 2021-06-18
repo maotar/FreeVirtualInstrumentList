@@ -30,7 +30,8 @@ List of free virtual instruments provided from all over the internet, most of th
 
 - [Embertone - Jug Drums Free](https://www.embertone.com/instruments/jugfree.php) - What happens when you lock two sound designers in a space with 5 water jugs, 5 microphones, a laptop and an audio interface? Pure #$!@ing magic, that's what!
 - [KLANG - Bambu Bambu - Kontakt](https://klang.cologne/klang21_free.php) - Lately we´ve been experimenting a lot with really old samba vinyl samples and found some extremely danceable rhythms. Have Fun jamming to these lofi gems
-- 
+- [KeepForest - Ferrum Modern Trailer Percussion Free - Kontakt Player](https://keep-forest.com/store/libraries/225185) - Modern trailer percussion powerhouse with a huge variety of cinematic percussion from epic and massive cinematic hits, punches, anvils and doors impacts to cymbals, bells, tiny metals and metallic foley.
+
 
 ## Melodic Percussion
 

@@ -1,6 +1,6 @@
 #### Free virtual instrument list
 
-Comprehensive list of free virtual instruments provided from all over the internet, most of these instruments are made for the paid full Kontakt sampler by Native instruments but many are also available for the free Kontakt player, other samplers or as VST instruments, platform will be marked accordingly.
+List of free virtual instruments provided from all over the internet, most of these instruments are made for the paid full Kontakt sampler by Native instruments but many are also available for the free Kontakt player, other samplers or as VST instruments, platform will be marked accordingly.
 
 ---
 

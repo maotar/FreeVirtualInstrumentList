@@ -26,11 +26,18 @@ Comprehensive list of free virtual instruments provided from all over the intern
 - [Strezov - THUNDER X3M Taiko Freebie - Kontakt](https://www.strezov-sampling.com/products/view/THUNDER%20X3M%20Taiko%20Freebie.html) - The Low Taiko Articulations (incl. Rimshots) from Thunder X3M mapped in the X3M Percussion Engine.
 - [8Dio - The New Cajon and Bongo - Kontakt](https://8dio.com/instrument/the-new-cajon-and-bongo/) - The New Cajon and Bongo comes with 11 core articulations and 8 new presets. Everything is neatly organized into our custom browser, which holds all of the available articulations within a single instrument. 
 - [8Dio - Mini - Kontakt](https://8dio.com/instrument/mini/) - MINI is the most comprehensive sample library ever done of ultra tiny object sounds
-- [8Dio - The New Propanium - Kontakt](https://8dio.com/instrument/the-new-propanium/) - The New Propanium (aka Milltone) is a multi-sampled tonal metallic drum
-- [8Dio - Smiley Drum - Kontakt](https://8dio.com/instrument/smiley-drum/) - Tuned percussion played with mallets
+
 - [Embertone - Jug Drums Free](https://www.embertone.com/instruments/jugfree.php) - What happens when you lock two sound designers in a space with 5 water jugs, 5 microphones, a laptop and an audio interface? Pure #$!@ing magic, that's what!
 - [KLANG - Bambu Bambu - Kontakt](https://klang.cologne/klang21_free.php) - Lately we´ve been experimenting a lot with really old samba vinyl samples and found some extremely danceable rhythms. Have Fun jamming to these lofi gems
 - 
+
+## Melodic Percussion
+
+- [8Dio - The New Propanium - Kontakt](https://8dio.com/instrument/the-new-propanium/) - The New Propanium (aka Milltone) is a multi-sampled tonal metallic drum
+- [8Dio - Smiley Drum - Kontakt](https://8dio.com/instrument/smiley-drum/) - Tuned percussion played with mallets
+- [8Dio - The New Copperphone - Kontakt](https://8dio.com/instrument/the-new-copperphone/) - The New Copperphone is a custom instrument made from modified Copper pipes. The end-result is a 12 pipe instrument that sounds somewhere between pristine bells and a metallic marimba of sorts.
+- [8Dio - The New Glass Marimba - Kontakt](https://8dio.com/instrument/the-new-glass-marimba/) - Deep Sampled Glass Marimba
+- [KLANG - Spiel Uher - Kontakt](https://klang.cologne/klang21_free.php) - We recorded a Spieluhr. We send it thru an old Uher Tape Machine. We like bad puns. We created a Spieluher
 
 ## Symphonic Strings
 
@@ -46,12 +53,9 @@ Comprehensive list of free virtual instruments provided from all over the intern
 - [Embertone - Canjo - Kontakt](https://www.embertone.com/instruments/canjo.php) - A Canjo is a single string musical instrument. It is held like a guitar but may also be played on a table or lap
 - [KLANG - Plucked overdrive - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - We had a little bit too much fun sending guitar through our favourite pedals and plug-ins
 
-## Keys and Plucks
+## Keys and Synths
 
 - [Soniccouture - Music Box - Kontakt Player](https://www.soniccouture.com/en/products/p43-music-boxes/) - Two original music boxes: all such devices work on the same principle of triggering metal tines using a notated melody, either as punched paper or an embossed metal cylinder. 
-- [8Dio - The New Copperphone - Kontakt](https://8dio.com/instrument/the-new-copperphone/) - The New Copperphone is a custom instrument made from modified Copper pipes. The end-result is a 12 pipe instrument that sounds somewhere between pristine bells and a metallic marimba of sorts.
-- [8Dio - The New Glass Marimba - Kontakt](https://8dio.com/instrument/the-new-glass-marimba/) - Deep Sampled Glass Marimba
-- [KLANG - Spiel Uher - Kontakt](https://klang.cologne/klang21_free.php) - We recorded a Spieluhr. We send it thru an old Uher Tape Machine. We like bad puns. We created a Spieluher
 - [KLANG - Lost in thoughts - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - As soon as you play the first notes your thoughts drift off into another world. It's mainly a JUNO 60 saw pad with a wonderful reverse texture and a grain pad
 
 ## Choir

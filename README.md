@@ -9,6 +9,7 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Project SAM - The Free Orchestra - Kontakt Player](https://projectsam.com/libraries/the-free-orchestra/) - The Free Orchestra offers a solid gigabyte of free, cinematic sounds taken directly from ProjectSAM’s acclaimed libraries, ranging from orchestral string staccatos and brass clusters to symphonic percussion and dystopian sound design.
 - [Spitfire - BBCSO Discover - VST](https://www.spitfireaudio.com/shop/a-z/bbc-symphony-orchestra-discover/) - (**free version requires filling out a survey and 14 day wait period**) Start writing music with the world-famous BBC Symphony Orchestra. 33 instruments brought to life inside our free, easy-to-use plugin, compatible with any major music creation software 
 - [Versillian Studios - VSCO 2 Community Edition - Kontakt/VST/Wav](https://vis.versilstudios.com/vsco-community.html) - VSCO 2 Community Edition (CE) is an open-source, open-ended subset of the main VSCO 2 library designed for young composers, hobbyist sample library developers, and students around the world to create better sounding music for free
+- [Red Room - Palette - Primary Colors - Kontakt](https://redroomaudio.com/product/palette-primary-colors/) - A FREE taste of Palette! This small sampling of our larger Palette Orchestral Series features strings, woodwinds and brass ensembles recorded using our True Ensemble Recording technique
 
 
 ## Woodwinds

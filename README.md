@@ -32,6 +32,8 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Embertone - Jug Drums Free](https://www.embertone.com/instruments/jugfree.php) - What happens when you lock two sound designers in a space with 5 water jugs, 5 microphones, a laptop and an audio interface? Pure #$!@ing magic, that's what!
 - [KLANG - Bambu Bambu - Kontakt](https://klang.cologne/klang21_free.php) - Lately we´ve been experimenting a lot with really old samba vinyl samples and found some extremely danceable rhythms. Have Fun jamming to these lofi gems
 - [KeepForest - Ferrum Modern Trailer Percussion Free - Kontakt Player](https://keep-forest.com/store/libraries/225185) - Modern trailer percussion powerhouse with a huge variety of cinematic percussion from epic and massive cinematic hits, punches, anvils and doors impacts to cymbals, bells, tiny metals and metallic foley.
+- [Impact Soundworks - Heritage Percussion - Kontakt](https://impactsoundworks.com/product/heritage-percussion/) - Free collection of 13 hand percussion instruments to add shimmer, shake, and energy to your tracks
+- [Impact Soundworks - Cinematic Synthetic Drums - Kontakt](https://impactsoundworks.com/product/cinematic-synthetic-drums/) - Sub-rumbling hits. Brutal snares. High-tech thips. Wild FX. All the rhythmic tools you need for modern hybrid orchestral/electronic scores
 
 
 ## Melodic Percussion
@@ -49,7 +51,8 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Embertone - Intimate Strings Lite - Kontakt](https://www.embertone.com/instruments/intstrings-lite.php) - Sound of a string quartet playing in unison
 - [KLANG - Bodega Strings - Ableton](https://klang.cologne/klang21_free.php) - A nice set of very fragile violin notes combined with a processed halftime layer results into a noble string tool that is deep and scratchy
 - [KLANG - Vertigo Harmonics - Ableton](https://klang.cologne/klang21_free.php) - Quite in the style of our symphonic taste. Flageolet strings, carefully played with a separate bow noise and an interesting wobble or chopper effect
-- [Sonixinema - String Textures - Kontakt](https://www.sonixinema.com/products/string-textures) - String Textures is a free virtual instrument for Kontakt featuring intimately recorded Strings which have been twisted, mangled and warped in to a wide array in cinematic sounds. 
+- [Sonixinema - String Textures - Kontakt](https://www.sonixinema.com/products/string-textures) - String Textures is a free virtual instrument for Kontakt featuring intimately recorded Strings which have been twisted, mangled and warped in to a wide array in cinematic sounds
+- [Impact Soundworks - The Stroh Violin - Kontakt](https://impactsoundworks.com/product/the-stroh-violin/) - The Stroh Violin is a quirky, self-amplified variation on the classic violin design with a resonating metal body and horn
 
 ## Other Stringed Instruments
 
@@ -57,6 +60,8 @@ List of free virtual instruments provided from all over the internet, most of th
 - [8Dio - Songwriting Guitar - Kontakt](https://8dio.com/instrument/songwriting-guitar/) - Acoustic and Electric Guitar Strums and Licks
 - [Embertone - Canjo - Kontakt](https://www.embertone.com/instruments/canjo.php) - A Canjo is a single string musical instrument. It is held like a guitar but may also be played on a table or lap
 - [KLANG - Plucked overdrive - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - We had a little bit too much fun sending guitar through our favourite pedals and plug-ins
+- [Impact Soundworks - Shreddage 3 Precision Free - Kontakt](https://impactsoundworks.com/product/shreddage-3-precision-free/) - The ultimate free electric bass for Kontakt, with a classic p-bass tone and detailed fingerstyle playing
+- [Impact Soundworks - Shreddage 3 Stratus Free - Kontakt](https://impactsoundworks.com/product/shreddage-3-stratus-free/) - Shreddage 3 Stratus Free is a free version of our Shreddage 3 Stratus next-generation virtual guitar instrument great for rock, metal, funk, blues, pop and much more
 
 ## Keys and Synths
 
@@ -94,7 +99,8 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Embertone - Arcane - Kontakt Player](https://www.embertone.com/instruments/arcane.php) - Half library, half game, 5 Incredible worlds to explore
 - [Keepforest - Evolution: Devastator Warzone Free Edition - Kontakt Player](https://keep-forest.com/store/libraries/225381) - Collection of hand-crafted custom Signature Sound effects, Bass and Braams, Signals and Signs, Drum Loops, Pulses, Guns and Racharges, One Shots, Cinematic loops and Artist Stems
 - [The Amazonic - AMA I Free edition - Kontakt](https://www.theamazonic.com/freeaudio) - Recorded straight in the depths of the Amazon rainforest and on a studio located in the city of Manaus, upon months of a deep researching, we selected the main instruments that are part of the culture, religion and traditions of those who lives in the Amazon
-- 
+- [Impact Soundworks - Super Audio Boy - Kontakt](https://impactsoundworks.com/product/super-audio-boy/) - A truly authentic collection of sounds from the classic, best-selling “GB” handheld
+
 ## Weird/Funny
 
 - [Embertone - Atmoraffe - Kontakt](https://www.embertone.com/instruments/atmoraffe.php) - a super stretched squeezy toy which will keep you giggling for quite some time

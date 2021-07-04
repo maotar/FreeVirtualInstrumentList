@@ -67,6 +67,7 @@ List of free virtual instruments provided from all over the internet, most of th
 
 - [Westwood - Upright Felt Piano - Kontakt](https://westwoodinstruments.com/instruments/upright-felt-piano/) - UPRIGHT FELT PIANO is the free version of our ALT PIANO. It features just the beautiful felt recordings and the basic controls you need for a great soft piano sound.
 - [Sonicatoms - Novel Piano - Kontakt](https://sonicatoms.com/novel-piano/) - A beautiful and warm sounding upright piano. Sampled with and without mute pedal
+- [Strix Instruments - ZVENIGOROD TOY PIANO - Kontakt](https://strixinstruments.com/zvenigorod/) - A small USSR piano with a unique sound that resembles a xylophone
 - [Precisionsound - Amore Grand Piano - Kontakt](https://store.precisionsound.net/shop/amore-grand-piano/) - This close-miked Yamaha grand has a unique, dark tone. And its minimal size makes it very CPU- and storage-friendly
 - [Sonixinema - Piano Textures - Kontakt](https://www.sonixinema.com/products/piano-textures) - Piano Textures is a free virtual instrument for Kontakt featuring an intimately recorded Upright Piano which has been twisted, mangled and warped in to a wide array in cinematic sounds. 
 - [Soniccouture - Music Box - Kontakt Player](https://www.soniccouture.com/en/products/p43-music-boxes/) - Two original music boxes: all such devices work on the same principle of triggering metal tines using a notated melody, either as punched paper or an embossed metal cylinder. 

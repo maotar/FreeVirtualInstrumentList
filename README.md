@@ -19,9 +19,11 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Sonuscore - Ethnic Flute Phrases - Kontakt](https://sonuscore.com/shop/free-ethnic-flute-phrases/) - The FREE “Ethnic Flute Phrases” instrument is a handy scoring tool, made to breathe life into every composition. It includes 100+ live recorded ethnic flute phrases, providing an expressiveness which is unachievable in traditional sampling.
 - [Embertone - Harmonette - Kontakt](https://www.embertone.com/instruments/harmonette.html) - The Harmonette is a rare, antique instrument, and in all of our research we could not find a similar one! It looks like a recorder, but functions and sounds more like a melodica. And it's super old - our best guess is somewhere between 60-80 years
 - [Embertone - Ivory Wind - Kontakt](https://www.embertone.com/instruments/ivorywind.php) - Old, wooden tenor recorder, obsessively sampled
-- 
+
 
 ## Brass
+
+- [Waverunner Audio - ML Brass - Kontakt](https://www.waverunneraudio.com/shop/pisces-rising-ml-brass/) - 2 French Horns, 1 Tenor Trombone and 1 Bass Trombone playing in octaves
 
 ## Percussion
 
@@ -43,7 +45,8 @@ List of free virtual instruments provided from all over the internet, most of th
 - [8Dio - The New Copperphone - Kontakt](https://8dio.com/instrument/the-new-copperphone/) - The New Copperphone is a custom instrument made from modified Copper pipes. The end-result is a 12 pipe instrument that sounds somewhere between pristine bells and a metallic marimba of sorts.
 - [8Dio - The New Glass Marimba - Kontakt](https://8dio.com/instrument/the-new-glass-marimba/) - Deep Sampled Glass Marimba
 - [KLANG - Spiel Uher - Kontakt](https://klang.cologne/klang21_free.php) - We recorded a Spieluhr. We send it thru an old Uher Tape Machine. We like bad puns. We created a Spieluher
-- [Sonixinema - Medicine MAn - Kontakt](https://www.sonixinema.com/products/medicine-man) - Medicine Man is a unique hand crafted Tongue Drum recorded by our friend Saša Dukić, best known as PsiloCybian
+- [Sonixinema - Medicine Man - Kontakt](https://www.sonixinema.com/products/medicine-man) - Medicine Man is a unique hand crafted Tongue Drum recorded by our friend Saša Dukić, best known as PsiloCybian
+- [Waverunner Audio - Vibes Alpha - Kontakt](https://www.waverunneraudio.com/shop/vibes-alpha-free/) - Vibraphone, valve closed at pp velocity, x4 rr, x2 microphone positions
 
 ## Symphonic Strings
 

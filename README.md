@@ -19,6 +19,8 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Sonuscore - Ethnic Flute Phrases - Kontakt](https://sonuscore.com/shop/free-ethnic-flute-phrases/) - The FREE “Ethnic Flute Phrases” instrument is a handy scoring tool, made to breathe life into every composition. It includes 100+ live recorded ethnic flute phrases, providing an expressiveness which is unachievable in traditional sampling.
 - [Embertone - Harmonette - Kontakt](https://www.embertone.com/instruments/harmonette.html) - The Harmonette is a rare, antique instrument, and in all of our research we could not find a similar one! It looks like a recorder, but functions and sounds more like a melodica. And it's super old - our best guess is somewhere between 60-80 years
 - [Embertone - Ivory Wind - Kontakt](https://www.embertone.com/instruments/ivorywind.php) - Old, wooden tenor recorder, obsessively sampled
+- [Fluffy Audio - Simple Flute - Kontakt](https://www.fluffyaudio.com/shop/simple-flute/) - Simple Flute is just a simple well-sounding flute for Kontakt
+- [Fluffy Audio - Bamboo Xaxophone - Kontakt](https://www.fluffyaudio.com/shop/bamboo-xaxophone/) - The Bamboo Xaxophone is a sort of odd saxophone obtained out of… bamboo!
 
 
 ## Brass
@@ -38,7 +40,7 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Impact Soundworks - Cinematic Synthetic Drums - Kontakt](https://impactsoundworks.com/product/cinematic-synthetic-drums/) - Sub-rumbling hits. Brutal snares. High-tech thips. Wild FX. All the rhythmic tools you need for modern hybrid orchestral/electronic scores
 
 
-## Melodic Percussion
+## Tuned Percussion
 
 - [8Dio - The New Propanium - Kontakt](https://8dio.com/instrument/the-new-propanium/) - The New Propanium (aka Milltone) is a multi-sampled tonal metallic drum
 - [8Dio - Smiley Drum - Kontakt](https://8dio.com/instrument/smiley-drum/) - Tuned percussion played with mallets
@@ -47,6 +49,8 @@ List of free virtual instruments provided from all over the internet, most of th
 - [KLANG - Spiel Uher - Kontakt](https://klang.cologne/klang21_free.php) - We recorded a Spieluhr. We send it thru an old Uher Tape Machine. We like bad puns. We created a Spieluher
 - [Sonixinema - Medicine Man - Kontakt](https://www.sonixinema.com/products/medicine-man) - Medicine Man is a unique hand crafted Tongue Drum recorded by our friend Saša Dukić, best known as PsiloCybian
 - [Waverunner Audio - Vibes Alpha - Kontakt](https://www.waverunneraudio.com/shop/vibes-alpha-free/) - Vibraphone, valve closed at pp velocity, x4 rr, x2 microphone positions
+- [Bunker Samples - Gongsters Paradise - Kontakt](https://bunkersamples.com/freebies/) - 5 Vietnamese tuned gongs, stretched across the keyboard
+- [Fluffy Audio - My Log Drum - Kontakt](https://www.fluffyaudio.com/shop/my-log-drum-a-primitive-sounding-percussion-for-ni-kontakt/) - The log drum, also called “slit rum”, is an idiophone usually carved in wood or constructed in a resonant wooden box
 
 ## Symphonic Strings
 
@@ -82,6 +86,7 @@ List of free virtual instruments provided from all over the internet, most of th
 
 - [Soniccouture - Tape Choir - Kontakt Player](https://www.soniccouture.com/en/products/18-exclusive-free-content/p170-tape-choir/) - A project to recreate the famous vocal choir pad sound from 10cc's 'I'm Not In Love'
 - [Embertone - Ancient Voices - Kontakt](https://www.embertone.com/instruments/ancientvoices.php) - Ancient Voices is a simple and beautiful, true-legato, all-male virtual choir
+- [Fluffy Audio - Haunted Choir - Kontakt](https://www.fluffyaudio.com/shop/haunted-choir/) - The restless souls of a 19th century female choir
 
 ## Field Recordings
 
@@ -99,6 +104,7 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Fallout Music Group - Shelter Series Booms - Kontakt](https://falloutmusicgroup.com/products/shelter-booms) - Dozens of low-end booms, from subtle to aggressive
 - [Fallout Music Group - Shelter Series Balloons - Kontakt](https://falloutmusicgroup.com/products/shelter-series-balloons) - Dozens of horror-centric and unique samples created from the mangling of balloons
 - [Fallout Music Group - Shelter Series Drops - Kontakt](https://falloutmusicgroup.com/products/shelter-drops) - Dozens of low-end downers, from subtle to aggressive
+- [Fluffy Audio - Aurorror - Kontakt](https://www.fluffyaudio.com/shop/aurorror/) - AURORROR is a “spin-off” from AURORA, our synthetic-soundscape library
 
 ## Misc
 

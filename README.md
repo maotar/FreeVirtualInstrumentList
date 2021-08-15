@@ -66,6 +66,7 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Impact Soundworks - Shreddage 3 Precision Free - Kontakt](https://impactsoundworks.com/product/shreddage-3-precision-free/) - The ultimate free electric bass for Kontakt, with a classic p-bass tone and detailed fingerstyle playing
 - [Impact Soundworks - Shreddage 3 Stratus Free - Kontakt](https://impactsoundworks.com/product/shreddage-3-stratus-free/) - Shreddage 3 Stratus Free is a free version of our Shreddage 3 Stratus next-generation virtual guitar instrument great for rock, metal, funk, blues, pop and much more
 
+
 ## Keys and Synths
 
 - [Westwood - Upright Felt Piano - Kontakt](https://westwoodinstruments.com/instruments/upright-felt-piano/) - UPRIGHT FELT PIANO is the free version of our ALT PIANO. It features just the beautiful felt recordings and the basic controls you need for a great soft piano sound.
@@ -93,6 +94,11 @@ List of free virtual instruments provided from all over the internet, most of th
 - [8Dio - Free You - Kontakt](https://8dio.com/instrument/free-you-cloud-collaborationfor-kontakt-vst-au-aax-samples/) - Contains Textural Sounds by over 200 Sound Designers
 - [8Dio - Free Radicals - Kontakt](https://8dio.com/instrument/free-radicals/) - Hybrid Distorted Sound Design
 - [KLANG - Drown - Kontakt/Ableton](https://klang.cologne/klang21_free.php) - Drowning in the endless possibilities of manipulating sounds, we finally found something that actually feels like drowning but is somehow still transporting a shiny beauty
+- [Riot Audio - Tremolo Clouds - Kontakt](https://riotaudio.com/product/tremolo-clouds/) - Free cinematic morphing pad instrument based on our proprietary CLOUDS engine
+- [Fallout Music Group - Shelter Series Risers - Kontakt](https://falloutmusicgroup.com/products/shelter-series-risers) - Shelter Series Risers is based on our Ascendance Riser instrument and uses a subset of the same high quality samples from that library
+- [Fallout Music Group - Shelter Series Booms - Kontakt](https://falloutmusicgroup.com/products/shelter-booms) - Dozens of low-end booms, from subtle to aggressive
+- [Fallout Music Group - Shelter Series Balloons - Kontakt](https://falloutmusicgroup.com/products/shelter-series-balloons) - Dozens of horror-centric and unique samples created from the mangling of balloons
+- [Fallout Music Group - Shelter Series Drops - Kontakt](https://falloutmusicgroup.com/products/shelter-drops) - Dozens of low-end downers, from subtle to aggressive
 
 ## Misc
 
@@ -104,6 +110,7 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Keepforest - Evolution: Devastator Warzone Free Edition - Kontakt Player](https://keep-forest.com/store/libraries/225381) - Collection of hand-crafted custom Signature Sound effects, Bass and Braams, Signals and Signs, Drum Loops, Pulses, Guns and Racharges, One Shots, Cinematic loops and Artist Stems
 - [The Amazonic - AMA I Free edition - Kontakt](https://www.theamazonic.com/freeaudio) - Recorded straight in the depths of the Amazon rainforest and on a studio located in the city of Manaus, upon months of a deep researching, we selected the main instruments that are part of the culture, religion and traditions of those who lives in the Amazon
 - [Impact Soundworks - Super Audio Boy - Kontakt](https://impactsoundworks.com/product/super-audio-boy/) - A truly authentic collection of sounds from the classic, best-selling “GB” handheld
+- [Riot Audio - Bionic Plucs and Mallets Lite - Kontakt](https://riotaudio.com/product/bionic-plucks-and-mallets-lite/) Lite Edition of BIONIC PLUCKS AND MALLETS
 
 ## Weird/Funny
 

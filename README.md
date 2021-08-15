@@ -52,6 +52,11 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Bunker Samples - Gongsters Paradise - Kontakt](https://bunkersamples.com/freebies/) - 5 Vietnamese tuned gongs, stretched across the keyboard
 - [Fluffy Audio - My Log Drum - Kontakt](https://www.fluffyaudio.com/shop/my-log-drum-a-primitive-sounding-percussion-for-ni-kontakt/) - The log drum, also called “slit rum”, is an idiophone usually carved in wood or constructed in a resonant wooden box
 
+## Bells
+
+- [Fracture Sounds - Sleigh Bells - Kontakt](https://fracturesounds.com/product/sleigh-bells/) - Add festive charm to your compositions with our 2020 Christmas freebie
+- [Fracture Sounds - Desk Bell - Kontakt](https://fracturesounds.com/product/desk-bell/) - Free gift – a small, playable shop bell for Kontakt 
+
 ## Symphonic Strings
 
 - [Sonuscore - Free HD Orchestra Chords & Sustained String Chords - Kontakt](https://sonuscore.com/free-orchestra-chords/) - (**requires mailing list subscribe**) Together with the Tonmeisters from GENUIN, multiple winners of the German Music Prize – The KLASSIK ECHO – we recorded the renowned Brandenburg State Orchestra to give you that warm and massive orchestral sound. Just register and you can get started immediately – all for free! 
@@ -118,12 +123,13 @@ List of free virtual instruments provided from all over the internet, most of th
 - [Impact Soundworks - Super Audio Boy - Kontakt](https://impactsoundworks.com/product/super-audio-boy/) - A truly authentic collection of sounds from the classic, best-selling “GB” handheld
 - [Riot Audio - Bionic Plucs and Mallets Lite - Kontakt](https://riotaudio.com/product/bionic-plucks-and-mallets-lite/) Lite Edition of BIONIC PLUCKS AND MALLETS
 
-## Weird/Funny
+## Silly/Funny
 
 - [Embertone - Atmoraffe - Kontakt](https://www.embertone.com/instruments/atmoraffe.php) - a super stretched squeezy toy which will keep you giggling for quite some time
 - [Embertone - The Keyboard - Kontakt](https://www.embertone.com/instruments/thekeyboard.php) - It's just an intricately sampled, unplugged MIDI Controller
 - [Embertone - The Kitchen - Kontakt](https://www.embertone.com/instruments/kitchen.php) - Enjoy the sounds of Oven slams, Glass bowls, kitchen lamps, matchsticks and more
 - [Soundiron - Snack the cat - Kontakt](https://soundiron.com/collections/free/products/snack) - we finally flipped on our trusty field recorder to capture a few raw cat vocalizations just for fun. We then started exploring the audio with a few digital manipulation tricks to see where that would take us
 - [Embertone - Gobbler - Kontakt](https://www.embertone.com/instruments/gobbler.php) - GOBBLER is a strange & silly virtual instrument that follows our hero, Gobbles the Turkey. Gobbles is a happy, free-range animal, wandering gorgeous landscapes
+- [Fracture Sounds - Emotional Recorder - Kontakt](https://fracturesounds.com/product/emotional-recorder/) - April fools library of badly played recorder
 
 
